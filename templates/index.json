@@ -1,6 +1,6 @@
 {
   "sections": {
-     "image_banner": {
+    "image_banner": {
       "type": "image-banner",
       "blocks": {
         "heading": {
@@ -218,7 +218,7 @@
           "type": "faq_item",
           "settings": {
             "title": "whois?",
-            "answer": "<h1><strong>なにぬねの<\/strong><\/h1>"
+            "answer": "<h1><strong>さしすせそ<\/strong><\/h1>"
           }
         }
       },
